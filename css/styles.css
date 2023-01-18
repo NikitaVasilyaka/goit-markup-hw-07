@@ -419,14 +419,14 @@ screen and (min-resolution: 2dppx) and (min-width: 768px) {
 }
 @media screen and (min-width: 1200px){
    .hero-section {
-      background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero/people-office.jpg');
+      background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero/hero-bg-desktop.jpg');
    }
 }
 @media screen and (min-device-pixel-ratio: 2),
 screen and (min-resolution: 192dpi) and (min-width: 1200px),
 screen and (min-resolution: 2dppx) and (min-width: 1200px) {
    .hero-section {
-      background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero/people-officex2.jpg');
+      background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero/hero-bg-desktop@2x.jpg');
    }
 }
 .hero-container {
