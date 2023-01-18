@@ -393,7 +393,7 @@ img {
    height: 432px;
    margin: 0 auto;
    background-color: var(--title-color);
-   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero/people-office480x1.jpg');
+   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/hero/hero-bg-desktop.jpg');
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
